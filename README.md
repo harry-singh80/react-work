@@ -31,20 +31,20 @@ static dataset while keeping the interface fast and the code easy to understand.
 ## Project structure
 
 ```text
-app/
-  page.tsx                 App entry point and provider setup
-components/
-  Dashboard.tsx            Page composition
-  EmployeeTable.tsx        Paginated table view
-  VirtualizedList.tsx      Virtualized rendering view
-  Pagination.tsx           Reusable page controls
-  StatCard.tsx             Reusable typed card
-context/
-  EmployeeContext.tsx      Shared state and derived data
-data/
-  employees.ts             1,500 deterministic static records
-hooks/
-  useVirtualList.ts        Custom virtualization calculations
+src/
+  App.tsx                         Provider setup and app entry
+  components/
+    Dashboard.tsx                 Page composition
+    EmployeeTable.tsx             Paginated table view
+    VirtualizedList.tsx           Virtualized rendering view
+    Pagination.tsx                Reusable page controls
+    StatCard.tsx                  Reusable typed card
+  context/
+    EmployeeContext.tsx           Shared state and derived data
+  data/
+    employees.ts                  1,500 deterministic static records
+  hooks/
+    useVirtualList.ts             Custom virtualization calculations
 ```
 
 ## Run locally
