@@ -5,8 +5,6 @@
 A clear, portfolio-ready React project that demonstrates how to work with a large
 static dataset while keeping the interface fast and the code easy to understand.
 
-**Live demo:** [React Data Explorer](https://react-data-explorer.mr-roughuse.chatgpt.site)
-
 ## Concepts demonstrated
 
 - **Context API:** search, department filters, page size, current page, and view
