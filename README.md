@@ -4,6 +4,8 @@
 
 **Live demo:** https://harry-singh80.github.io/react-work/
 
+> Hosted free with GitHub Pages. Every push to `main` is built and deployed automatically.
+
 ![React Data Explorer social preview](public/og.jpg)
 
 A clear, portfolio-ready React project that demonstrates how to work with a large
