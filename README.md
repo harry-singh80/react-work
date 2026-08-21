@@ -1,5 +1,9 @@
 # React Data Explorer
 
+[![Deploy to GitHub Pages](https://github.com/harry-singh80/react-work/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/harry-singh80/react-work/actions/workflows/deploy-pages.yml)
+
+**Live demo:** https://harry-singh80.github.io/react-work/
+
 ![React Data Explorer social preview](public/og.jpg)
 
 A clear, portfolio-ready React project that demonstrates how to work with a large
