@@ -1,9 +1,11 @@
 # React Data Explorer
 
-![React Data Explorer social preview](public/og.png)
+![React Data Explorer social preview](public/og.jpg)
 
 A clear, portfolio-ready React project that demonstrates how to work with a large
 static dataset while keeping the interface fast and the code easy to understand.
+
+**Live demo:** [React Data Explorer](https://react-data-explorer.mr-roughuse.chatgpt.site)
 
 ## Concepts demonstrated
 
@@ -64,5 +66,5 @@ npm run build
 
 ## Tech stack
 
-React 19, TypeScript, Vinext/Vite, and modern CSS. The project uses no backend,
+React 19, TypeScript, Vite, and modern CSS. The project uses no backend,
 database, UI framework, or external data API—the focus stays on core React ideas.
